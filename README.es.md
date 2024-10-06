@@ -32,9 +32,9 @@ Tu trabajo es actualizar el archivo `src/models.py` con el código necesario par
 El proyecto está utilizando la librería Python SQLAlchemy para generar la base de datos.
 
 - Tu proyecto debe tener una tabla `Usuario` que va a contener la información de cada uno de tus usuarios.
-- Los usuarios del blog podrán iniciar sesión y guardar sus planetas o personajes favoritos.
+- Los usuarios del blog podrán iniciar sesión y guardar sus planetas o Userajes favoritos.
 - Tu base de datos debe guardar los favoritos de cada usuario del blog para su posterior revisión.
-- Tu base de datos también debe almacenar cada planeta y personaje de StarWars.
+- Tu base de datos también debe almacenar cada planeta y Useraje de StarWars.
 - ¿Qué otras tablas crees que necesitarás para tu aplicación?
 - ¿Qué propiedades deben ir dentro de cada tabla? Por ejemplo: El usuario tiene email, password, fecha de subscripción, nombre, apellido, etc.
 - ¿Qué relaciones hay entre las tablas? ¿Cuántos planetas puede guardar un usuario?
